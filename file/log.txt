@@ -1,0 +1,5 @@
+microphone line: 8306
+
+self.init  line: 8295
+
+screen     line: 11200
